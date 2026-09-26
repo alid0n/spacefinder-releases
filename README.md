@@ -21,7 +21,8 @@ SpaceFinder is a single program file. There's nothing to install: download it an
 ## Careful by design
 
 - Windows' own files, and the folders programs need to run, are protected from deletion.
-- Files and folders you remove from the folder, file and duplicate lists go to the Recycle Bin.
+- Files and folders can go to the Recycle Bin, or be deleted permanently with **Delete permanently…** (or Shift+Delete). Either way, SpaceFinder asks you to confirm first.
+- **Protect high-risk files** is on by default: anything rated "Don't delete" can't be removed until you turn it off.
 - Quick wins and Developer clutter only clear caches and rebuildable files, and always show what will be removed before asking you to confirm.
 - SpaceFinder doesn't connect to the internet. Nothing about your files leaves your PC.
 
